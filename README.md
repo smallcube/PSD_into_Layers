@@ -8,3 +8,10 @@ This is the official repo for turning an image into layers
 (2)各种超参数需要设置：例如batch size;
 (3)预训练or微调：CLIP，Segment Anything（SAM）
 (4)知识蒸馏
+
+
+# 2026 11.10
+(1)数据处理1-n分层都要 
+(2)根据sigraph论文调整网络架构 
+(3)技术细节：论文中高斯去噪、加条件 
+(4)创新点：考虑一致性问题
